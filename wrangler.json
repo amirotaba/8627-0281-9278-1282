@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "8627-0281-9278-1282",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6058b5c0-9ddb-41e6-a959-b6d7eb9f4326",
+			"database_name": "IOT_DB"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
